@@ -35,8 +35,15 @@ Here are the technologies and tools I have experience with.
 
 ## 📌 Notable Projects
 Those are the most recent projects I have worked on.  
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=flat&logo=github)]((https://github.com/Goubigon/focus-flow))  – A web app that combines math exercises with AI-powered handwriting recognition.  
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=flat&logo=github)](https://github.com/Goubigon/focus-flow)  – A web app that combines math exercises with AI-powered handwriting recognition.  
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=flat&logo=github)](https://github.com/Goubigon/MNIST-Server)  – Deep learning model trained on handwritten digits.
+
+Here are some projects I worked on during my master's degree:  
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=flat&logo=github)](https://github.com/LeoPanEsiee?tab=repositories) - List of repositories.  
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=flat&logo=github)](https://github.com/LeoPanEsiee/ATELIERS) - AI-powered Android app providing lesson recommendations; a tutored project, unfinished but passed on to future students.  
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=flat&logo=github)](https://github.com/LeoPanEsiee/PythonProject) - Data analysis & visualization with Python on persecuted minorities.    
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=flat&logo=github)](https://github.com/LeoPanEsiee/E3-PythonIA) - AI behavior for Pacman, Tic-Tac-Toe & Tron games.
 
 <!--
 ## 🎯 Stats
