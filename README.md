@@ -55,7 +55,6 @@ Here are some projects I worked on during my master's degree:
 ## 📬 Contact Me
 Feel free to reach out for collaboration, opportunities, or questions!
 
-📧 Github Email: [goubigon@gmail.com]  
 📧 Pro Email: [panleo@outlook.fr]  
 🔗 LinkedIn: [https://www.linkedin.com/in/leo-pan-566462262/]
 
